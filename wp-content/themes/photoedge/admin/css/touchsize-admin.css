@@ -1,4 +1,4 @@
-@import url("/wp-content/themes/photoedge/css/redfont.css");
+@import url("/garyjsphotography/wp-content/themes/photoedge/css/redfont.css");
 
 
 .wrap-red *, .wrap-red-templates *{
@@ -261,7 +261,7 @@
 	display: block;
 	width: 32px;
 	height: 32px;
-	background: rgba(0,0,0,0.10) url('/wp-content/themes/photoedge/images/social/socials-sprite.png') no-repeat;
+	background: rgba(0,0,0,0.10) url('/garyjsphotography/wp-content/themes/photoedge/images/social/socials-sprite.png') no-repeat;
 	border: 1px solid rgba(0,0,0,0.08);
 	border-radius: 3px;
 	-webkit-transition: all 200ms linear;
@@ -918,7 +918,7 @@ input[type="text"] + input[type="button"].button-primary{
 	display: none !important;
 }
 i.ts_shortcode_icon {
-	background-image: url('/wp-content/themes/photoedge/includes/images/touchicon.png');
+	background-image: url('/garyjsphotography/wp-content/themes/photoedge/includes/images/touchicon.png');
 }
 
 .builder-icon-list{

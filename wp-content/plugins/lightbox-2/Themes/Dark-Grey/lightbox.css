@@ -29,7 +29,7 @@
 	width: 100%;
 	text-align: center;
 	line-height: 0;
-	background: transparent center url(/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/loading.gif) no-repeat;
+	background: transparent center url(/garyjsphotography/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/loading.gif) no-repeat;
 }
 #stimuli_hoverNav {
 	position: absolute;
@@ -45,13 +45,13 @@
 #stimuli_prevLink, #stimuli_nextLink {
 	width: 49%;
 	height: 100%;
-	background: transparent url(/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/blank.gif) no-repeat; /* Trick IE into showing hover */
+	background: transparent url(/garyjsphotography/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/blank.gif) no-repeat; /* Trick IE into showing hover */
 	display: block;
 }
 #stimuli_prevLink { left: 0; float: left;}
 #stimuli_nextLink { right: 0; float: right;}
-#stimuli_prevLink:hover, #stimuli_prevLink:visited:hover { background: url(/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/prev.gif) left 55% no-repeat; }
-#stimuli_nextLink:hover, #stimuli_nextLink:visited:hover { background: url(/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/next.gif) right 55% no-repeat; }
+#stimuli_prevLink:hover, #stimuli_prevLink:visited:hover { background: url(/garyjsphotography/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/prev.gif) left 55% no-repeat; }
+#stimuli_nextLink:hover, #stimuli_nextLink:visited:hover { background: url(/garyjsphotography/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/next.gif) right 55% no-repeat; }
 
 
 #stimuli_imageDataContainer {
@@ -67,7 +67,7 @@
 #stimuli_imageData #stimuli_imageDetails { width: 70%; float: left; text-align: left; }	
 #stimuli_imageData #stimuli_caption { font-weight: bold;}
 #stimuli_imageData #stimuli_numberDisplay { display: block; clear: left; padding-bottom: 1.0em;}			
-#stimuli_imageData #stimuli_bottomNavClose { width: 66px; float: right; padding-bottom: 0.7em; background: url(/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/closelabel.gif) right 55% no-repeat; padding-top: 1.0em; margin-bottom: 1.0em;}	
+#stimuli_imageData #stimuli_bottomNavClose { width: 66px; float: right; padding-bottom: 0.7em; background: url(/garyjsphotography/wp-content/plugins/lightbox-2/Themes/Dark-Grey/images/closelabel.gif) right 55% no-repeat; padding-top: 1.0em; margin-bottom: 1.0em;}	
 		
 #stimuli_overlay {
 	position: absolute;

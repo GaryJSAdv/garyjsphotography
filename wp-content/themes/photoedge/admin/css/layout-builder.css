@@ -580,7 +580,7 @@ h2.builder-section-title{
 	display: block;
 }
 .edit {
-	/*background: url('/wp-content/themes/photoedge/admin/img/edit.png') left top no-repeat;*/
+	/*background: url('/garyjsphotography/wp-content/themes/photoedge/admin/img/edit.png') left top no-repeat;*/
 }
 span[data-tooltip]:hover:after{
 	content: attr(data-tooltip);
@@ -602,7 +602,7 @@ span[data-tooltip]:hover:after{
 }
 
 .delete {
-	/*background: url('/wp-content/themes/photoedge/admin/img/delete.gif') left top no-repeat;*/
+	/*background: url('/garyjsphotography/wp-content/themes/photoedge/admin/img/delete.gif') left top no-repeat;*/
 }
 .element-name{
 	color: #646675;
@@ -1352,7 +1352,7 @@ i.element-icon:before{
 	line-height: 80px;
 	margin-left: -40px;
 	margin-top: -40px;
-	background: #fff url('/wp-content/themes/photoedge/images/ajax-loader.gif') center center no-repeat;
+	background: #fff url('/garyjsphotography/wp-content/themes/photoedge/images/ajax-loader.gif') center center no-repeat;
 	display: none;
 	z-index: 999;
 	border-radius: 10px;

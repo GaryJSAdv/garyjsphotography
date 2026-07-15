@@ -2224,8 +2224,8 @@ input[type="button"].btn-block {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.eot');
-  src: url('/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+  src: url('/garyjsphotography/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.eot');
+  src: url('/garyjsphotography/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('/garyjsphotography/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/garyjsphotography/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/garyjsphotography/wp-content/themes/photoedge/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;

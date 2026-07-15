@@ -401,38 +401,38 @@
 #cboxTopLeft {
     width: 25px;
     height: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat 0 0;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat 0 0;
 }
 #cboxTopCenter {
     height: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) repeat-x 0 -50px;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) repeat-x 0 -50px;
 }
 #cboxTopRight {
     width: 25px;
     height: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat -25px 0;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat -25px 0;
 }
 #cboxBottomLeft {
     width: 25px;
     height: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat 0 -25px;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat 0 -25px;
 }
 #cboxBottomCenter {
     height: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) repeat-x 0 -75px;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) repeat-x 0 -75px;
 }
 #cboxBottomRight {
     width: 25px;
     height: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat -25px -25px;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border1.png) no-repeat -25px -25px;
 }
 #cboxMiddleLeft {
     width: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border2.png) repeat-y 0 0;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border2.png) repeat-y 0 0;
 }
 #cboxMiddleRight {
     width: 25px;
-    background: url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border2.png) repeat-y -25px 0;
+    background: url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/border2.png) repeat-y -25px 0;
 }
 #cboxContent {
     background: #fff;
@@ -463,7 +463,7 @@
     color: #999;
 }
 #cboxLoadingOverlay {
-    background: #fff url(/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/loading.gif) no-repeat 5px 5px;
+    background: #fff url(/garyjsphotography/wp-content/plugins/easy-pricing-tables/assets/ui/ui-components/colorbox/images/loading.gif) no-repeat 5px 5px;
 }
 #cboxClose, #cboxNext, #cboxPrevious, #cboxSlideshow {
     border: 0;

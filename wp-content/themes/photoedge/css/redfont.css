@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'redfont';
-  src: url('/wp-content/themes/photoedge/font/redfont.eot?38408031');
-  src: url('/wp-content/themes/photoedge/font/redfont.eot?38408031#iefix') format('embedded-opentype'),
-       url('/wp-content/themes/photoedge/font/redfont.woff?38408031') format('woff'),
-       url('/wp-content/themes/photoedge/font/redfont.ttf?38408031') format('truetype'),
-       url('/wp-content/themes/photoedge/font/redfont.svg?38408031#redfont') format('svg');
+  src: url('/garyjsphotography/wp-content/themes/photoedge/font/redfont.eot?38408031');
+  src: url('/garyjsphotography/wp-content/themes/photoedge/font/redfont.eot?38408031#iefix') format('embedded-opentype'),
+       url('/garyjsphotography/wp-content/themes/photoedge/font/redfont.woff?38408031') format('woff'),
+       url('/garyjsphotography/wp-content/themes/photoedge/font/redfont.ttf?38408031') format('truetype'),
+       url('/garyjsphotography/wp-content/themes/photoedge/font/redfont.svg?38408031#redfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'redfont';
-    src: url('/wp-content/themes/photoedge/font/redfont.svg?38408031#redfont') format('svg');
+    src: url('/garyjsphotography/wp-content/themes/photoedge/font/redfont.svg?38408031#redfont') format('svg');
   }
 }
 */

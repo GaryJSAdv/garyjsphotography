@@ -88,21 +88,21 @@
   visibility: visible;
 }
 .flicgal-gallery-wrapper .blueimp-gallery > .slides > .slide-loading {
-  background: url(/wp-content/plugins/flickr-album-gallery/img/loading.gif) center no-repeat;
+  background: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/loading.gif) center no-repeat;
   background-size: 64px 64px;
 }
 .flicgal-gallery-wrapper .blueimp-gallery-smil > .slides > .slide-loading {
-  background-image: url(/wp-content/plugins/flickr-album-gallery/img/loading.svg);
+  background-image: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/loading.svg);
 }
 .flicgal-gallery-wrapper .blueimp-gallery > .slides > .slide-loading > .slide-content {
   opacity: 0;
 }
 .flicgal-gallery-wrapper .blueimp-gallery > .slides > .slide-error {
-  background: url(/wp-content/plugins/flickr-album-gallery/img/error.svg) center no-repeat;
+  background: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/error.svg) center no-repeat;
   background-size: 48px 48px;
 }
 .flicgal-gallery-wrapper .blueimp-gallery-svgasimg > .slides > .slide-error {
-  background-image: url(/wp-content/plugins/flickr-album-gallery/img/error.svg);
+  background-image: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/error.svg);
 }
 .flicgal-gallery-wrapper .blueimp-gallery > .slides > .slide-error > .slide-content {
   display: none;
@@ -119,7 +119,7 @@
   -webkit-box-sizing: border-box !important;
   -moz-box-sizing: border-box !important;
   box-sizing: border-box !important;
-  background: rgba(0, 0, 0, 0.5) url(/wp-content/plugins/flickr-album-gallery/img/prev.svg) center no-repeat !important;
+  background: rgba(0, 0, 0, 0.5) url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/prev.svg) center no-repeat !important;
   background-size: 24px 24px !important;
   border: 2px solid #fff !important;
   -webkit-border-radius: 50% !important;
@@ -138,13 +138,13 @@
 .flicgal-gallery-wrapper .blueimp-gallery-display > .next {
   right: 15px;
   left: auto;
-  background-image: url(/wp-content/plugins/flickr-album-gallery/img/next.svg) !important;
+  background-image: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/next.svg) !important;
 }
 .flicgal-gallery-wrapper .blueimp-gallery-svgasimg > .prev {
-  background-image: url(/wp-content/plugins/flickr-album-gallery/img/prev.svg);
+  background-image: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/prev.svg);
 }
 .flicgal-gallery-wrapper .blueimp-gallery-svgasimg > .next {
-  background-image: url(/wp-content/plugins/flickr-album-gallery/img/next.svg);
+  background-image: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/next.svg);
 }
 .flicgal-gallery-wrapper .blueimp-gallery-display > .close {
   position: absolute;
@@ -152,7 +152,7 @@
   right: 15px;
   width: 32px !important;
   height: 32px !important;
-  background: rgba(0, 0, 0, 0.5) url(/wp-content/plugins/flickr-album-gallery/img/close.svg) center no-repeat !important;
+  background: rgba(0, 0, 0, 0.5) url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/close.svg) center no-repeat !important;
   background-size: 20px 20px !important;
   border-radius: 50%;
   opacity: 0.8;
@@ -164,7 +164,7 @@
   content: none !important;
 }
 .flicgal-gallery-wrapper .blueimp-gallery-svgasimg > .close {
-  background-image: url(/wp-content/plugins/flickr-album-gallery/img/close.svg) !important;
+  background-image: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/close.svg) !important;
 }
 .flicgal-gallery-wrapper .blueimp-gallery > .title {
   position: absolute;
@@ -184,13 +184,13 @@
   bottom: 15px;
   width: 30px;
   height: 30px;
-  background: url(/wp-content/plugins/flickr-album-gallery/img/play-pause.png) 0 0 no-repeat;
+  background: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/play-pause.png) 0 0 no-repeat;
   cursor: pointer;
   opacity: 0.5;
   display: none;
 }
 .flicgal-gallery-wrapper .blueimp-gallery-svgasimg > .play-pause {
-  background-image: url(/wp-content/plugins/flickr-album-gallery/img/play-pause.svg);
+  background-image: url(/garyjsphotography/wp-content/plugins/flickr-album-gallery/img/play-pause.svg);
 }
 .flicgal-gallery-wrapper .blueimp-gallery-playing > .play-pause {
   background-position: -30px 0;
