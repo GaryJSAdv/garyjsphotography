@@ -1,0 +1,44 @@
+body{
+	font-family: 'Cabin';
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-family: 'Montserrat';
+}
+blockquote{
+	border: 0 none;
+	padding: 10px 60px 0 60px;
+	position: relative;
+	font-size: 18px;
+	margin-bottom: 50px;
+	margin-left: 0;
+	margin-right: 0;
+}
+blockquote p{
+	font-size: 18px;
+}
+blockquote:before,
+blockquote:after{
+	content: '\e816';
+	font-family: 'redfont';
+	font-size: 52px;
+	position: absolute;
+	opacity: 0.3;
+	left: 0;
+	top: 10px;
+	line-height: 0;
+}
+blockquote:after{
+	top: auto;
+	bottom: 10px;
+	right: 0;
+	left: auto;
+}
+
+.wp-block {
+	max-width: 960px;
+}

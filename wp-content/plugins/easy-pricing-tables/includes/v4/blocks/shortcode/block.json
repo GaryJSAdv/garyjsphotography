@@ -1,0 +1,23 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name":  "easy-pricing-tables/shortcode",
+	"title": "Pricing Table Shortcode",
+	"category": "widgets",
+	"textdomain": "easy-pricing-tables",
+	"parent": [ "easy-pricing-tables/button" ],
+	
+	"editorScript": "fca-ept4-shortcode-js",
+	
+	"attributes": {		
+		"content": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	
+	"supports": {
+		"renaming": false,
+		"lock": false
+	}
+}
